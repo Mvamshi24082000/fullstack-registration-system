@@ -80,9 +80,9 @@ fullstack-assessment/
 ├── frontend/
 │   ├── src/
 │   │   ├── App.js
-│   │   ├── RegistrationForm.js
-│   │   ├── UsersList.js
-│   │   └── App.css
+│   │   ├── App.css
+│   │ 
+│   │   
 │   └── package.json
 └── README.md
 ```
